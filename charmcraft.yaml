@@ -1,0 +1,13 @@
+name: repro
+
+summary: Repro
+
+description: Repro
+
+type: charm
+base: ubuntu@24.04
+platforms:
+  amd64:
+
+parts:
+  charm: {}
